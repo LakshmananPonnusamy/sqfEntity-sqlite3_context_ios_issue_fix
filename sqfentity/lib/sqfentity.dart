@@ -24,8 +24,9 @@ import 'package:sqfentity/sqfentity_connection.dart';
 import 'package:sqfentity/sqfentity_connection_base.dart';
 import 'package:sqfentity/sqfentity_connection_ffi.dart';
 import 'package:sqfentity_gen/sqfentity_gen.dart';
+import 'package:sqflite_common/sqflite.dart';
 //import 'package:sqflite/sqflite.dart';
-import 'package:sqflite_sqlcipher/sqflite.dart';
+// import 'package:sqflite_sqlcipher/sqflite.dart';
 
 // BEGIN DATABASE PROVIDER
 

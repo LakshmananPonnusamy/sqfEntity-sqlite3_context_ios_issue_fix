@@ -19,7 +19,8 @@
 import 'dart:async' show Future;
 import 'dart:io';
 import 'package:flutter/services.dart';
-import 'package:sqflite_sqlcipher/sqflite.dart';
+import 'package:sqflite_common/sqlite_api.dart';
+// import 'package:sqflite_sqlcipher/sqflite.dart';
 
 class SqfEntityConnection {
   SqfEntityConnection(this.databaseName,
